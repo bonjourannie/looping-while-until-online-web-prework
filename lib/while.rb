@@ -1,5 +1,6 @@
-#counter = 0 
+counter = 0 
 
-#def using_whlie
-  
-#end
+def using_whlie
+    
+
+end
